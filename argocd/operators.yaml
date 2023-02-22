@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: redhat-sso
+  name: operators
   namespace: openshift-gitops
 spec:
   destination:
